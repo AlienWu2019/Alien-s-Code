@@ -1,0 +1,5 @@
+# a = r"\u4eba\u95f4\u6b63\u9053\u662f\u6ca7\u6851\uff01\u300a\u9690\u5f62\u5b88\u62a4\u8005\u300b\u7684\u7ea2\u8272\u82b3\u534e\u8bf7\u522b\u8ba9\u4e91\u73a9\u5bb6\u6bc1\u4e86"
+# print(a.encode('ascii').decode('unicode_escape'))
+
+i = "1123456"
+print(isinstance(i[0],int))

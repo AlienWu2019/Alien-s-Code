@@ -1,0 +1,5 @@
+a=input()
+b=input()
+a_list=a.split()
+b_list=b.split()
+print(int(a_list[0])+int(b_list[0]),int(a_list[1])+int(b_list[1]))
